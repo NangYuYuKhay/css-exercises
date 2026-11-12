@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.odd-num{
+    background-color: rgb(252, 171, 184);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#second-ele{
+    color: #0000ff;
+    font-size: 36px;
+}
+.odd-num.third-ele{
+    font-size: 24px;
+}
+#fourth-ele{
+    background-color: rgb(141, 235, 141);
+    font-size: 24px;
+    font-weight: 900;
+}
